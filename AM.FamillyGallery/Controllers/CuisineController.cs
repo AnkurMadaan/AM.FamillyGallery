@@ -11,7 +11,10 @@ namespace AM.FamillyGallery.Controllers
         // GET: Cuisine
         public ActionResult Search()
         {
-            return View();
+            //  return View();
+
+            return Content("Hello");
+
         }
     }
 }

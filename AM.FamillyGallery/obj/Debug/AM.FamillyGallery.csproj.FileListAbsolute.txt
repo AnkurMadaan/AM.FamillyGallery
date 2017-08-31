@@ -77,6 +77,5 @@ C:\AnkurPersonal\AM.FamillyGallery\AM.FamillyGallery\bin\Microsoft.Owin.Security
 C:\AnkurPersonal\AM.FamillyGallery\AM.FamillyGallery\bin\Microsoft.Owin.Security.Google.xml
 C:\AnkurPersonal\AM.FamillyGallery\AM.FamillyGallery\bin\Microsoft.Owin.Security.Twitter.xml
 C:\AnkurPersonal\AM.FamillyGallery\AM.FamillyGallery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\AnkurPersonal\AM.FamillyGallery\AM.FamillyGallery\obj\Debug\AM.FamillyGallery.csprojResolveAssemblyReference.cache
 C:\AnkurPersonal\AM.FamillyGallery\AM.FamillyGallery\obj\Debug\AM.FamillyGallery.dll
 C:\AnkurPersonal\AM.FamillyGallery\AM.FamillyGallery\obj\Debug\AM.FamillyGallery.pdb

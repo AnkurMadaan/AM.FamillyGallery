@@ -11,7 +11,11 @@ namespace AM.FamillyGallery
     {
         public static void RegisterRoutes(RouteCollection routes)
         {
+            //to ignore such requests..
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
+
+            routes.MapRoute("cuisine", "cuisine/{name}", new { Controller = "Cuisine", Action = "Search", name = "" });
+
 
             routes.MapRoute(
                 name: "Default",
